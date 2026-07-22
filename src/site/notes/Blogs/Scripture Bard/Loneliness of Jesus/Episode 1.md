@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blogs/scripture-bard/loneliness-of-jesus/episode-1/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/blogs/scripture-bard/loneliness-of-jesus/episode-1/","tags":["Blogs","Scripture-Bard","Series"],"dg-note-properties":{"tags":["Blogs","Scripture-Bard","Series"]}}
 ---
 
 # The Strange Loneliness of Jesus’ Withdrawals

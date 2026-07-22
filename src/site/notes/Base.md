@@ -9,7 +9,7 @@ views:
     name: Table
     order:
       - file.name
-      - file.folder
       - Date
+      - file.tags
 
 ```
