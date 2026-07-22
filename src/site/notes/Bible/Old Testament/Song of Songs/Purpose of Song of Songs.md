@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible/old-testament/song-of-songs/purpose-of-song-of-songs/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/bible/old-testament/song-of-songs/purpose-of-song-of-songs/","dg-note-properties":{"Date":"2026-07-22"}}
 ---
 
 There are four main categories : 

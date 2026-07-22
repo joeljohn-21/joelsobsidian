@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible/old-testament/song-of-songs/dating-of-song-of-songs/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/bible/old-testament/song-of-songs/dating-of-song-of-songs/","dg-note-properties":{"Date":"2026-07-22"}}
 ---
 
 # Traditional View: The Solomonic Era (10th Century BC)
