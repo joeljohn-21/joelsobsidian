@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/authorship-of-song-of-song/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/authorship-of-song-of-song/","dg-note-properties":{"Date":"2026-07-22"}}
 ---
 
 The question of who authored the Song of Songs (also known as the **Song of Solomon** or **Canticles**) has generated a wide range of interpretations throughout the history of biblical scholarship. While traditional views strongly attribute the work to King Solomon, modern historical-critical scholars generally argue that the book is anonymously written, with some even proposing female authorship or suggesting that the Holy Spirit is its ultimate author.
